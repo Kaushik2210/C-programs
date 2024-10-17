@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "q1": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello I am Kaushik \r\nThis is my lab program list Q1"
+    }
+  }
+}
